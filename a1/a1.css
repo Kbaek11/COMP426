@@ -1,0 +1,89 @@
+body {
+	background: url('./images/theshot.jpg') no-repeat center fixed rgba(0,0,0,0.6);
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: #ecf0f1;
+}
+
+div.navbar {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	margin-top: 1vw;
+	border-bottom: 1px solid #ecf0f1;
+	color: #ecf0f1;
+	font-size: 4vw;
+	font-family: 'Roboto', sans-serif;
+}
+
+div.navbar > div > a {
+    color: #ecf0f1;
+    text-decoration: none;
+
+}
+
+div.navbar > div > a:hover {
+	color: #CE1141;
+}
+
+.header {
+	margin-top: 10vw;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2vw;
+
+}
+
+.paragraph {
+	text-align: center;
+	font-size: 2.5vw;
+	margin-top: 10vw;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.game-info {
+	margin-top: 11vw;
+	margin-left: 10vw;
+}
+
+.game-score {
+	margin-right: 10vw;
+	margin-top: -7.6vw;
+	text-align: right;
+}
+
+#game-video {
+  text-align:center;
+}
+
+iframe {
+    border-width: 0px;
+}
+
+#cavs-text:hover {
+	color: #FDBB30;
+}
+
+#cavs-text {
+	color: #FDBB30;
+}
+
+#bulls-text:hover {
+	color: #CE1141;
+}
+
+#bulls-text {
+	color: #CE1141;
+}
+
+#jordan-gif {
+	text-align: center;
+}
+
+.citations {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5vw;
+	margin-top: 20vw;
+}
+
+
