@@ -52,11 +52,11 @@ div.navbar > div > a:hover {
 }
 
 #game-video {
-  text-align:center;
+  	text-align:center;
 }
 
 iframe {
-    border-width: 0px;
+    	border-width: 0px;
 }
 
 #cavs-text:hover {
