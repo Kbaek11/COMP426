@@ -1,8 +1,8 @@
 body {
-	background: url('./images/theshot.jpg') no-repeat center fixed rgba(0,0,0,0.6);
-    background-size: cover;
-    background-blend-mode: multiply;
-    color: #ecf0f1;
+    	background: url('./images/theshot.jpg') no-repeat center fixed rgba(0,0,0,0.6);
+    	background-size: cover;
+    	background-blend-mode: multiply;
+    	color: #ecf0f1;
 }
 
 div.navbar {
@@ -17,8 +17,8 @@ div.navbar {
 }
 
 div.navbar > div > a {
-    color: #ecf0f1;
-    text-decoration: none;
+    	color: #ecf0f1;
+    	text-decoration: none;
 
 }
 
